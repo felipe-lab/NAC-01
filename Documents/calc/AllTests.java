@@ -8,4 +8,4 @@ import org.junit.runners.Suite.SuiteClasses;
 
 @SuiteClasses({ BoasVindasTest.class, CalculadoraTest.class, ProdutoTest.class })
 
-public class AllTests{}
+public class AllTests{ }
