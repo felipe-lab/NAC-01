@@ -1,0 +1,5 @@
+#Nos metodos de teste, seguir o seguinte padrão:
+#Inicializar o objeto [ 'nome do construtor' 'nome do objeto' = new 'nome do construtor(+ parametros, se houver)' ];
+#Criar as variaveis vão receber os valores para teste;
+#sout para ver o que está sendo exibido no processo de teste;
+#assertEquals('valor esperado', 'valor a ser comparado').
